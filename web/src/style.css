@@ -1,0 +1,218 @@
+* {
+  box-sizing: border-box;
+  outline: none;
+}
+
+html {
+  font-size: 13px;
+}
+
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  background: #f1f1f1;
+}
+
+body a {
+  color: #999;
+}
+
+.text-primary {
+  color: #db9e3f;
+}
+
+.bg-primary {
+  color: #db9e3f;
+}
+
+.text-info {
+  color: #4b67af;
+}
+
+.bg-info {
+  color: #4b67af;
+}
+
+.text-danger {
+  color: #791a15;
+}
+
+.bg-danger {
+  color: #791a15;
+}
+
+.text-blue-1 {
+  color: #1f3695;
+}
+
+.bg-blue-1 {
+  color: #1f3695;
+}
+
+.text-blue {
+  color: #4394e4;
+}
+
+.bg-blue {
+  color: #4394e4;
+}
+
+.text-white {
+  color: #fff;
+}
+
+.bg-white {
+  color: #fff;
+}
+
+.text-white-1 {
+  color: #fcfcfc;
+}
+
+.bg-white-1 {
+  color: #fcfcfc;
+}
+
+.text-white-2 {
+  color: #eceef0;
+}
+
+.bg-white-2 {
+  color: #eceef0;
+}
+
+.text-light {
+  color: #f9f9f9;
+}
+
+.bg-light {
+  color: #f9f9f9;
+}
+
+.text-light-1 {
+  color: #d4d9de;
+}
+
+.bg-light-1 {
+  color: #d4d9de;
+}
+
+.text-grey {
+  color: #999;
+}
+
+.bg-grey {
+  color: #999;
+}
+
+.text-grey-1 {
+  color: #666;
+}
+
+.bg-grey-1 {
+  color: #666;
+}
+
+.text-dark-1 {
+  color: #343440;
+}
+
+.bg-dark-1 {
+  color: #343440;
+}
+
+.text-dark {
+  color: #222;
+}
+
+.bg-dark {
+  color: #222;
+}
+
+.text-black {
+  color: #000;
+}
+
+.bg-black {
+  color: #000;
+}
+
+.text-left {
+  text-align: left;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.text-right {
+  text-align: right;
+}
+
+.text-xs {
+  font-size: 0.7692rem;
+}
+
+.text-sm {
+  font-size: 0.9231rem;
+}
+
+.text-md {
+  font-size: 1rem;
+}
+
+.text-lg {
+  font-size: 1.0769rem;
+}
+
+.text-xl {
+  font-size: 1.2308rem;
+}
+
+.d-flex {
+  display: flex;
+}
+
+.flex-colum {
+  flex-direction: column;
+}
+
+.js-start {
+  justify-content: flex-start;
+}
+
+.js-end {
+  justify-content: flex-end;
+}
+
+.js-center {
+  justify-content: center;
+}
+
+.js-between {
+  justify-content: space-between;
+}
+
+.js-around {
+  justify-content: space-around;
+}
+
+.aistart {
+  align-items: flex-start;
+}
+
+.aiend {
+  align-items: flex-end;
+}
+
+.aicenter {
+  align-items: center;
+}
+
+.aibetween {
+  align-items: space-between;
+}
+
+.aistretch {
+  align-items: stretch;
+}

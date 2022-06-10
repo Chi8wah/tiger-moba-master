@@ -1,0 +1,37 @@
+{
+  "id": "1756235",
+  "name": "tiger-moba",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1601119",
+      "name": "superhero-1",
+      "font_class": "superhero-",
+      "unicode": "e646",
+      "unicode_decimal": 58950
+    },
+    {
+      "icon_id": "1026711",
+      "name": "news",
+      "font_class": "news",
+      "unicode": "e627",
+      "unicode_decimal": 58919
+    },
+    {
+      "icon_id": "1916532",
+      "name": "图文",
+      "font_class": "article",
+      "unicode": "e7d7",
+      "unicode_decimal": 59351
+    },
+    {
+      "icon_id": "9231540",
+      "name": "视频",
+      "font_class": "shipin",
+      "unicode": "e68d",
+      "unicode_decimal": 59021
+    }
+  ]
+}
